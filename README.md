@@ -34,9 +34,9 @@ services:
       - /dev/dri:/dev/dri
     restart: always
 ```
-- 可以不用映射`dashboard-ui`文件夹，插件也处理了 Emby Web 跨域问题。
+- Docker镜像内置插件，另外可以不用映射`dashboard-ui`文件夹，插件也处理了 Emby Web 跨域问题。
 
-## 手动安装
+## 其他镜像安装
 
 1. 从 Release 下载最新的 `EmbyPatch.dll`。
 2. 将 `EmbyPatch.dll` 放到 Emby 的 `plugins` 目录。
