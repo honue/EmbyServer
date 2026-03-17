@@ -8,8 +8,9 @@
 <!-- publish-state:start -->
 | Tag | Published At (UTC+8) | Official Platform SHA1 |
 | --- | --- | --- |
-| beta | 2026-03-12 15:05:01 | `linux/amd64: sha1 3965d3fe5953`<br>`linux/arm/v7: sha1 61f2f76b5200`<br>`linux/arm64: sha1 83a46130f00c` |
+| beta | 2026-03-17 18:55:13 | `linux/amd64: sha1 7f089f355bd5`<br>`linux/arm/v7: sha1 f6b785df3f9a`<br>`linux/arm64: sha1 77d34fecfac5` |
 | latest | 2026-03-12 15:05:01 | `linux/amd64: sha1 338a17ad65a8` |
+| 4.10.0.6 | 2026-03-17 18:55:13 | `linux/amd64: sha1 7f089f355bd5`<br>`linux/arm/v7: sha1 f6b785df3f9a`<br>`linux/arm64: sha1 77d34fecfac5` |
 | 4.10.0.5 | 2026-03-12 15:05:01 | `linux/amd64: sha1 3965d3fe5953`<br>`linux/arm/v7: sha1 61f2f76b5200`<br>`linux/arm64: sha1 83a46130f00c` |
 <!-- publish-state:end -->
 

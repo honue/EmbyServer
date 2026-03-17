@@ -8,13 +8,22 @@
       "linux/arm64": "sha256:83a46130f00cf0c949da6cbca9a7ed5cd70faec21ec174afc678945cfb0e6017"
     }
   },
-  "beta": {
-    "published_at": "2026-03-12T07:05:01Z",
+  "4.10.0.6": {
+    "published_at": "2026-03-17T10:55:13Z",
     "release_tag": "v1.0.1.0",
     "source": {
-      "linux/amd64": "sha256:3965d3fe5953cf8a334ae0d3c4cdcbef3f475b14520181b78a7b794ff99c5818",
-      "linux/arm/v7": "sha256:61f2f76b5200320093f20e7c6a1a21f93058a7317da2aa7f023a3df49de34a91",
-      "linux/arm64": "sha256:83a46130f00cf0c949da6cbca9a7ed5cd70faec21ec174afc678945cfb0e6017"
+      "linux/amd64": "sha256:7f089f355bd58980686edbd371ebc4c0d46f15f5c084dbd8173a03bfbc3d38b5",
+      "linux/arm/v7": "sha256:f6b785df3f9a7a06a86b6a2154b2fca3107f3821bded04eded0e51723fa812f1",
+      "linux/arm64": "sha256:77d34fecfac536368a559ee219fc3f7556061a502ed9c34144a2d46f32775474"
+    }
+  },
+  "beta": {
+    "published_at": "2026-03-17T10:55:13Z",
+    "release_tag": "v1.0.1.0",
+    "source": {
+      "linux/amd64": "sha256:7f089f355bd58980686edbd371ebc4c0d46f15f5c084dbd8173a03bfbc3d38b5",
+      "linux/arm/v7": "sha256:f6b785df3f9a7a06a86b6a2154b2fca3107f3821bded04eded0e51723fa812f1",
+      "linux/arm64": "sha256:77d34fecfac536368a559ee219fc3f7556061a502ed9c34144a2d46f32775474"
     }
   },
   "latest": {
