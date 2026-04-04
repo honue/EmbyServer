@@ -8,6 +8,9 @@
 <!-- publish-state:start -->
 | Tag | Published At (UTC+8) | Official Platform SHA1 |
 | --- | --- | --- |
+| beta | 2026-04-04 20:05:14 | `linux/amd64: sha1 3fbbdd44918a`<br>`linux/arm/v7: sha1 0778bd2004a7`<br>`linux/arm64: sha1 ceffb7f37b43` |
+| latest | 2026-04-04 20:05:14 | `linux/amd64: sha1 338a17ad65a8` |
+| 4.10.0.8 | 2026-04-04 20:05:14 | `linux/amd64: sha1 3fbbdd44918a`<br>`linux/arm/v7: sha1 0778bd2004a7`<br>`linux/arm64: sha1 ceffb7f37b43` |
 <!-- publish-state:end -->
 
 ## Docker Compose 示例
