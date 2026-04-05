@@ -1,6 +1,6 @@
 {
   "4.10.0.8": {
-    "published_at": "2026-04-04T12:05:14Z",
+    "published_at": "2026-04-05T02:52:19Z",
     "release_tag": "v1.0.0.0",
     "source": {
       "linux/amd64": "sha256:3fbbdd44918a82455da2967b23f96220ad73c7eaab1d4c59691fba3c961ded2e",
@@ -9,7 +9,7 @@
     }
   },
   "beta": {
-    "published_at": "2026-04-04T12:05:14Z",
+    "published_at": "2026-04-05T02:52:19Z",
     "release_tag": "v1.0.0.0",
     "source": {
       "linux/amd64": "sha256:3fbbdd44918a82455da2967b23f96220ad73c7eaab1d4c59691fba3c961ded2e",
@@ -18,7 +18,7 @@
     }
   },
   "latest": {
-    "published_at": "2026-04-04T12:05:14Z",
+    "published_at": "2026-04-05T02:52:19Z",
     "release_tag": "v1.0.0.0",
     "source": {
       "linux/amd64": "sha256:338a17ad65a822f18d18574459046003a84d2fee82c2e234adf8645009238d0a"
